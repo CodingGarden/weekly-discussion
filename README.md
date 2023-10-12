@@ -2,6 +2,12 @@
 
 All the notes from our weekly discord discussions.
 
+* October 2nd 2023 - What is your stack?
+  * [Notes](./20231002.md)
+  * [Video](https://www.youtube.com/watch?v=bqYQiIR2F08)
+* September 25th 2023 - What was your experience with Burnout?
+  * [Notes](./20230925.md)
+  * [Video](https://www.youtube.com/watch?v=bqYQiIR2F08)
 * September 18th 2023 - What was your first programming language?
   * [Notes](./20230918.md)
   * [Video](https://www.youtube.com/watch?v=EHKNqfmtkHs)
